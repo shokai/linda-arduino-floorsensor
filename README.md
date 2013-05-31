@@ -37,7 +37,8 @@ sensors
 
 ### floor sensor
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/QxeZ2c8Y20Q" frameborder="0" allowfullscreen></iframe>
+- http://www.youtube.com/watch?v=QxeZ2c8Y20Q
+
 <img src="http://shokai.org/archive/file/3bbf7df0dddeacc27a921c9f2e5bc7ff.png">
 <img src="http://shokai.org/archive/file/6a2788ed7d9290fe3d31932b163674c6.png">
 
